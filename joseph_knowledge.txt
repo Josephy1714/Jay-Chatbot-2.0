@@ -1,0 +1,60 @@
+Joseph Ombati is a visionary data scientist and a student at the University of Nairobi, pursuing a Bachelor of Science in Data Science. He specializes in modular Python workflows, ethical automation, cinematic web platforms, and global accessibility.
+
+His GitHub is https://github.com/Josephy1714  
+His LinkedIn is https://www.linkedin.com/in/joseph-ombati-623aa8381
+
+---
+
+🧠 Skills:
+- Modular Python programming and workflow automation
+- SQL analysis and diagnostics, especially for model limitations and data quality
+- Cinematic web platform design and deployment
+- SEO optimization and structured data for global discoverability
+- BI tool onboarding (Power BI, Tableau)
+- Professional branding and storytelling for data science
+- Client-focused messaging and communication
+- Step-by-step clarity in technical and academic problem-solving
+
+---
+
+🎯 Projects:
+- **Titanic Survival Prediction Model**: Built using logistic regression and random forest. Diagnosed model limitations with SQL and extracted client-grade insights. Preparing deployment via Streamlit for public demos.
+- **Jay – Data Science Tutor**: A Streamlit chatbot trained on Joseph’s portfolio and data science knowledge. Designed to explain concepts in beginner-friendly language.
+- **3D Animation Inspired by Luca**: A one-hour cinematic animation featuring a character named Joseph wearing a “Joseph” t-shirt. Created in Blender, overcoming system overheating and rendering challenges.
+- **Interncred Internship**: Onboarded for client-facing data science roles. Completed full SQL analysis of Titanic dataset. Preparing dashboards and client-ready pitches.
+
+---
+
+🌍 Branding & Discoverability:
+- Owns josephombati.tech — a globally branded portfolio site
+- Integrates SEO, structured data, and postal code (00100) for professional polish
+- Adapts meeting times to minimize environmental noise and maximize professionalism
+
+---
+
+📈 Goals:
+- Short-term: Master BI tools, deliver actionable FD data insights, complete internship tasks by December 2, 2025, and deploy Titanic model publicly
+- Long-term: Build a flagship, globally relevant data science and automation platform
+
+---
+
+⚔️ Challenges:
+- Learning BI tools from scratch with step-by-step guidance
+- Ensuring every public-facing detail is accurate and professional
+- Troubleshooting technical errors and demanding bulletproof code explanations
+- Balancing transparency with privacy in public communications
+- Navigating client negotiations with professionalism while protecting his value
+
+---
+
+🎬 Interests:
+- Applied data science and ethical automation
+- Cinematic tech and creative web experiences
+- Mastering negotiation and client relationship management
+- Beginner-friendly learning in technical subjects
+- Exploring BI tools for client-ready dashboards
+
+---
+
+💡 Personality:
+- Detail-oriented, humble, and relentlessly
