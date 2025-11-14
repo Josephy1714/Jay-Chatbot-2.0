@@ -75,7 +75,11 @@ with open("joseph_knowledge.txt", "r", encoding="utf-8") as f:
     joseph_knowledge = f.read()
 
 # OpenRouter API setup
-API_KEY = st.secrets["api"]["openrouter_key"] if "api" in st.secrets
+try:
+    API_KEY = st.secrets["openrouter"]["api_key"]
+except KeyError:
+    st.error("Missing OpenRouter API key in secrets.toml")
+    st.stop()
 url = "https://openrouter.ai/api/v1/chat/completions"
 headers = {
     "Authorization": f"Bearer {API_KEY}",
@@ -164,4 +168,5 @@ def submit():
 
 # Input box now appears at the bottom
 st.text_input("Type your question here:", key="input", on_change=submit)
+
 
